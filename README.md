@@ -1,6 +1,7 @@
 # bpi-r1-setup
 script to setup the BPI-R1 Banana PI as a router bridging the four port switch and access point to be on the same network
-#Howto:
+
+# Howto:
 1. Download the lastest bananian from here: https://www.bananian.org/download
 2. Insert your SD card into the card reader.
 3. Identify your SD card device using 'dmesg' and 'umount' it.
